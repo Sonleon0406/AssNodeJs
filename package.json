@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "handlebars": "^4.7.8",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "assignment",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "start": "nodemon --inspect sever.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
